@@ -17,7 +17,8 @@
 
 Листівка має містити гарний текст, фоновий колір і зображення. Приклад листівки:
 
-![image.png](attachment:2cd630b8-6a3e-4b16-b407-93af424afefe:image.png)
+![image](https://github.com/user-attachments/assets/3fe91a2b-7eab-4e67-a520-71ddddb2c3cf)
+
 
 ### 2. **Розробити гру Word Scramble.**
 
